@@ -10,6 +10,7 @@ Wtyczka chrome do oznaczania rosyjskiej propagandy. Główne założenia:
 - wykop.pl
 - Twitter
 - Facebook
+- Youtube
 
 ## In progress:
 - Autodetektor treści
