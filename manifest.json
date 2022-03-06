@@ -28,12 +28,17 @@
       "css": ["button.css"],
       "matches": ["*://www.facebook.com/*"],
       "js": ["facebook.js"] 
+    },
+    {
+      "css": ["button.css"],
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["youtube.js"] 
     }
   ],
   "host_permissions": [
     "*://www.wykop.pl/*",
     "*://twitter.com/*",
-    "*://facebook.com/*"
-
+    "*://facebook.com/*",
+    "*://youtube.com/*"
   ]
 }
