@@ -28,7 +28,7 @@ function addUnassignedUserButtons(userList, useParent = true) {
 function createUnassignedUserButton(username) {
     const button = document.createElement('button');
     button.className = 'unassigned';
-    button.innerText = 'Kliknij aby oznaczyć trolla';
+    button.innerText = 'Oznacz';
     button.addEventListener('click',(e) => { 
         e.preventDefault();
         e.stopPropagation();
